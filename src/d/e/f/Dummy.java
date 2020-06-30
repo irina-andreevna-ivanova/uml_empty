@@ -9,6 +9,9 @@ package d.e.f;
 public abstract class Dummy {
     /**
      * some dummy comment
+     * 
+     * 
+     * 
      **/
     public static String boo() {
         return "boo";
